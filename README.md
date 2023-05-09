@@ -11,4 +11,4 @@ NOTE, a GUI is on its way.
 
 Keep in mind this proyect is just to get familiar with AI and shoudnt be taken as more, it haves its flaws(for example variables that are location dependend, such as: Winston, What time is it?
 
-if everytrhing goes well, this repository should be updated frecuently.
+if everything goes well, this repository should be updated frecuently.
